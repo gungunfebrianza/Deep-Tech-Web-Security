@@ -82,9 +82,13 @@ Jika anda mengalami pristiwa **Website Defacement**, maka anda telah menghadapi 
 
 ### Malicious Insiders
 
+Seseorang yang berada di dekat anda, teman anda atau pegawai anda sendiri menjadi **Evil Actor** yang berhasil mengelabui anda baik itu menggunakan **Social Engineering** atau **Direct Physical Access**, pada **computer/laptop** yang sedang anda, admin atau staff gunakan untuk melakukan infeksi **Malware** (**Malicious Software**).
+
 <img src="assets/Malcare.png" style="zoom:70%;" />
 
 *Credit to MalCare the origin owner of this great picture.*
+
+
 
 ## Web Shell
 
