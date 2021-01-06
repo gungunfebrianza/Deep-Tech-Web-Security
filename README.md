@@ -64,7 +64,15 @@ Source : https://www.wsj.com/articles/BL-CJB-15573
 
 <img src="assets/WebSecurityDamage.png" style="zoom:100%;" />
 
-Website Defacement dilakukan sebagai representasi identitas (meskipun sebagian besar anonymous) dan status bahwa attacker telah menembus web server milik korban. 
+**Website Defacement** dilakukan sebagai representasi identitas (meskipun sebagian besar **anonymous**) dan status bahwa **attacker** telah menembus **Web Server** milik korban.
+
+## Attack Vector
+
+**Attack Vector** adalah metode yang digunakan seorang penyerang untuk mendapatkan hak akses secara ilegal pada sistem komputer lokal atau remote server. Cara berpikir seorang attacker saat mencoba menyerang sistem milik korban seperti menemukan jalan keluar dalam sebuah maze.
+
+<img src="assets/Maze.jpg" style="zoom:70%;" />
+
+Segala metode dan kemungkinan akan dicoba sampai sistem keamanan berhasil dijebol.
 
 ## Web Shell
 
