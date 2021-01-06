@@ -91,15 +91,27 @@ Seseorang yang berada di dekat anda, teman anda atau pegawai anda sendiri menjad
 
 **File** atau **software** yang telah terinfeksi **virus**, (*or Technically, "Binding" virus*) atau **malware** secara langsung di infeksikan pada **computer/laptop** anda, admin atau staff. 
 
-<img src="assets/InfectedPC.png" style="zoom:70%;" />
-
-Serangan juga dapat dilakukan melalui **social media** atau **instant message** seperti whats app dekstop, sebagai contoh **sender** sebagai **malicious insiders** meminta anda untuk **download** dan mengeksekusi **software** tertentu. 
+#### Malicious Software
 
 Sewaktu kuliah saya membuat aplikasi **dekstop calculator**, namun setiap tombol dalam **calculator** menyimpan fungsi lain dibelakang layar, salah satunya adalah **drop** **malware** untuk infeksi sistem operasi. Alih-alih saya melakukan social engineering meminta teman yang masih awam untuk menguji aplikasi dekstop **calculator** saya.
 
-Tanpa beliau sadari, **malware** yang saya buat sudah menginfeksi sistem operasinya. Case study ini adalah salah satu contoh tugas kuliah saya waktu lampau.
+Tanpa beliau sadari, **malware** yang saya buat sudah menginfeksi sistem operasinya. **Case study** ini adalah salah satu contoh tugas kuliah saya waktu lampau.
+
+<img src="assets/InfectedPC.png" style="zoom:70%;" />
+
+#### Malicious Message
+
+Serangan juga dapat dilakukan melalui **social media** atau **instant message** seperti **whats app dekstop**, sebagai contoh **sender** sebagai **malicious insiders** meminta anda untuk **download** dan mengeksekusi **software** tertentu. 
 
 <img src="assets/MaliciousMessage.png" style="zoom:70%;" />
+
+#### Infected USB Attack
+
+Selain dari malicious message, malicious insiders juga dapat menggunakan USB yang telah terinfeksi malware untuk dipasang ke dalam komputer atau laptop yang anda, admin anda atau staff anda. Ada Autorun dan konten yang bisa menjadi eksekutor sistem operasi terinfeksi.
+
+<img src="assets/USBAttack.png" style="zoom:70%;" />
+
+
 
 ## Web Shell
 
