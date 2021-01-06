@@ -38,15 +38,19 @@ Berdasarkan laporan Steve Morgan dalam technical reportnya yang berjudul Hackerp
 
 Berdasarkan laporan yang berjudul Global Economic Crime Survey, tahun 2016 hampir 1/3 perusahaan mengalami gangguan cybercrime. Meskipun rata-rata 61% seorang CEO concern dengan keadaan cyber security dalam perusahaannya. [3]
 
-
+<img src="assets/CyberCrimeAdagium.PNG" style="zoom:100%;" />
 
 # Website Defacement
 
-Dalam Jurnal yang ditulis Marco dan Nik yang berjudul ***"Hacktivism dan Website Defacement : Motivation, Capabilities and Potential Threat."***, dikatakan bahwa **Hacktivism** dan Website Defacement seringkali memiliki keterkaitan. 
+Dalam Jurnal yang ditulis Marco dan Nik yang berjudul ***"Hacktivism dan Website Defacement : Motivation, Capabilities and Potential Threat."***, dikatakan bahwa **Hacktivism** dan **Website Defacement** seringkali memiliki keterkaitan. 
 
-**Website Defacement** adalah serangan yang ditujukan untuk mengubah tampilan suatu **website**. Seorang **Defacer** berhasil melakukan **privilege escalation** menembus **server**, mengubah tampilan halaman depan (**index**) pada **Web Server**.
+**Website Defacement** adalah serangan yang ditujukan untuk mengubah tampilan suatu **website**. 
 
+**Website Defacement** terjadi ketika seorang **Attacker** sudah berada dalam **stage post exploitation**, **attacker** berhasil melakukan **privilege escalation** menembus **server**, mengubah tampilan halaman depan (**index**) pada **Web Server**.
 
+Di bawah ini adalah salah satu website pemerintahan china yang berhasil di deface.
+
+<img src="assets/ChinaWebsiteDefaced.jpg" style="zoom:100%;" />
 
 ## Web Shell
 
