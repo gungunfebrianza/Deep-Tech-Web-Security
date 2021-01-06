@@ -28,3 +28,13 @@ Berbicara tentang Web Security, bisa dimulai dari aplikasi browser. Sebuah pintu
 
 # Bug Bounty
 
+
+
+# Website Defacement
+
+Dalam Jurnal yang ditulis Marco dan Nik yang berjudul "Hacktivism dan Website Defacement : Motivation, Capabilities and Potential Threat.", dikatakan bahwa Hacktivism dan Website Defacement seringkali memiliki keterkaitan. 
+
+Website Defacement adalah serangan yang ditujukan untuk mengubah tampilan suatu website. Seorang Defacer berhasil melakukan privilege escalation menembus server, mengubah halaman depan (index) pada web server.
+
+
+
