@@ -46,3 +46,4 @@ Dalam Jurnal yang ditulis Marco dan Nik yang berjudul ***"Hacktivism dan Website
 
 Potensi kerusakan dapat menimpa anda apapun **runtime engine** untuk **Web Server** yang anda gunakan, atau **Content Management System (CMS)** yang anda gunakan. Jika anda pengguna **CMS Wordpress**, kerentanan sistem dapat terjadi di sisi **CMS** itu sendiri atau melalui **plugins** yang anda gunakan.
 
+In Early Development, mostly anti viruses tidak bisa mendeteksi Web Shell sebagai Virus karena Web Shell bukan file executable, nowadays anti viruses sudah memiliki kemampuan heuristic yang lebih advance. Seperti Static Code Analysis untuk mendeteksi Web Shell.
