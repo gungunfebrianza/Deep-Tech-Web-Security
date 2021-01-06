@@ -34,6 +34,12 @@ Berdasarkan laporan Steve Morgan dalam technical reportnya yang berjudul Hackerp
 
 <img src="assets/CostCybercrime.png" style="zoom:100%;" />
 
+## Cybercrime Adagium
+
+Berdasarkan laporan yang berjudul Global Economic Crime Survey, tahun 2016 hampir 1/3 perusahaan mengalami gangguan cybercrime. Meskipun rata-rata 61% seorang CEO concern dengan keadaan cyber security dalam perusahaannya. [3]
+
+
+
 # Website Defacement
 
 Dalam Jurnal yang ditulis Marco dan Nik yang berjudul ***"Hacktivism dan Website Defacement : Motivation, Capabilities and Potential Threat."***, dikatakan bahwa **Hacktivism** dan Website Defacement seringkali memiliki keterkaitan. 
@@ -57,6 +63,8 @@ Potensi kerusakan dapat menimpa anda apapun **runtime engine** untuk **Web Serve
 [1] RSA Whitepaper. 2016. *2016: Current State of Cybercrime*. Technical Report. RSA. 1–7.
 
 [2] Steve Morgan. 2016. *Hackerpocalypse : A Cybercrime Revelation*. Technical Report. Cybersecurity Ventures. 1–24.
+
+[3] PwC. 2016. *Global Economic Crime Survey 2016: Adjusting the Lens on Economic Crime*. Technical Report. PwC. 1–31.
 
 # Web Browser
 
