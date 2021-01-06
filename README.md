@@ -42,6 +42,8 @@ Misal pada paper penelitian di bawah ini, penerapan **Machine Learning** sebagai
 
 <img src="assets/ComplexComputerSecurity.JPG" style="zoom:100%;" />
 
+Contoh di atas termasuk kedalam **emerging computer security**, setiap minggu, bulan dan tahun hal hal baru muncul baik itu inovasi untuk eksploitasi keamanan komputer atau improvisasi ilmu keamanan komputer itu sendiri.
+
 # Website Defacement
 
 Dalam Jurnal yang ditulis Marco dan Nik yang berjudul ***"Hacktivism dan Website Defacement : Motivation, Capabilities and Potential Threat."***, dikatakan bahwa **Hacktivism** dan Website Defacement seringkali memiliki keterkaitan. 
