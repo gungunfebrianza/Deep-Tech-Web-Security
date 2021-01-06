@@ -61,6 +61,7 @@ Source : https://www.wsj.com/articles/BL-CJB-15573
 1. Bocornya informasi **customer** dapat menimbulkan tuntutan hukum
 2. Kekayaan Intelektual berpotensi menimbulkan kerugian bisnis
 3. Data keuangan menyebar menuju kompetitor atau umum
+4. **Arbitraty Attack** seperti **phising** melalui website yang telah dikontrol untuk mencuri data **customer**
 
 <img src="assets/WebSecurityDamage.png" style="zoom:100%;" />
 
@@ -88,7 +89,17 @@ Seseorang yang berada di dekat anda, teman anda atau pegawai anda sendiri menjad
 
 *Credit to MalCare the origin owner of this great picture.*
 
+**File** atau **software** yang telah terinfeksi **virus**, (*or Technically, "Binding" virus*) atau **malware** secara langsung di infeksikan pada **computer/laptop** anda, admin atau staff. 
 
+<img src="assets/InfectedPC.png" style="zoom:70%;" />
+
+Serangan juga dapat dilakukan melalui **social media** atau **instant message** seperti whats app dekstop, sebagai contoh **sender** sebagai **malicious insiders** meminta anda untuk **download** dan mengeksekusi **software** tertentu. 
+
+Sewaktu kuliah saya membuat aplikasi **dekstop calculator**, namun setiap tombol dalam **calculator** menyimpan fungsi lain dibelakang layar, salah satunya adalah **drop** **malware** untuk infeksi sistem operasi. Alih-alih saya melakukan social engineering meminta teman yang masih awam untuk menguji aplikasi dekstop **calculator** saya.
+
+Tanpa beliau sadari, **malware** yang saya buat sudah menginfeksi sistem operasinya. Case study ini adalah salah satu contoh tugas kuliah saya waktu lampau.
+
+<img src="assets/MaliciousMessage.png" style="zoom:70%;" />
 
 ## Web Shell
 
