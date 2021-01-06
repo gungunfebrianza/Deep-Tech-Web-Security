@@ -111,6 +111,14 @@ Selain dari **malicious message**, **malicious insiders** juga dapat menggunakan
 
 <img src="assets/USBAttack.PNG" style="zoom:70%;" />
 
+Beberapa tahun lalu penulis sempat membuat Open Source USB Security Software, projectnya open source jika anda ingin mempelajarinya bisa anda cek disini :
+
+https://github.com/gungunfebrianza/USB-Disk-Security
+
+<img src="assets/USBDiskSecurity.jpg" style="zoom:100%;" />
+
+Software ini dapat memblokir autorun dan membaca isi autorun dalam USB.
+
 #### Malware Execution
 
 Jadi malicious insiders, akan menggunakan malwares, malicious message, atau infected USB Attack (Direct Physical Access) agar akhirnya mampu mengeksekusi Trojan. Karena pada kasus ini attacker ingin melakukan Website Defacement, attacker akan berusaha menginfeksikan Trojan pada sistem komputer anda, admin anda, atau staff anda.
