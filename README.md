@@ -68,11 +68,23 @@ Source : https://www.wsj.com/articles/BL-CJB-15573
 
 ## Attack Vector
 
-**Attack Vector** adalah metode yang digunakan seorang penyerang untuk mendapatkan hak akses secara ilegal pada sistem komputer lokal atau remote server. Cara berpikir seorang attacker saat mencoba menyerang sistem milik korban seperti menemukan jalan keluar dalam sebuah maze.
+**Attack Vector** adalah metode yang digunakan seorang penyerang untuk mendapatkan hak akses secara ilegal pada sistem komputer lokal atau **Remote Server**. Cara berpikir seorang **attacker** saat mencoba menyerang sistem milik korban di analogikan seperti memecahkan jalan keluar dalam sebuah **maze**.
 
 <img src="assets/Maze.jpg" style="zoom:70%;" />
 
 Segala metode dan kemungkinan akan dicoba sampai sistem keamanan berhasil dijebol.
+
+Jika anda mengalami pristiwa **Website Defacement**, maka anda telah menghadapi serangan yang sangat powerful. Kenapa **Powerful** ? penyebabnya sangat banyak sekali dan anda harus melakukan **tracing** sumber penyebabnya. 
+
+### Social Engineering
+
+*You, your admin, or your staff are tricked by someone internal or external*. Tahapnya dapat terjadi ketika anda, admin atau pegawai anda berhasil dikelabui untuk menuruti keinginan penyerang menggunakan **social engineering**. Sehingga sedikit demi sedikit atau sekaligus penyerang akhirnya memiliki akses penuh terhadap sistem.
+
+### Malicious Insiders
+
+<img src="assets/Malcare.png" style="zoom:70%;" />
+
+*Credit to MalCare the origin owner of this great picture.*
 
 ## Web Shell
 
