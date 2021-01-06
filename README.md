@@ -48,9 +48,21 @@ Dalam Jurnal yang ditulis Marco dan Nik yang berjudul ***"Hacktivism dan Website
 
 **Website Defacement** terjadi ketika seorang **Attacker** sudah berada dalam **stage post exploitation**, **attacker** berhasil melakukan **privilege escalation** menembus **server**, mengubah tampilan halaman depan (**index**) pada **Web Server**.
 
-Di bawah ini adalah salah satu website pemerintahan china yang berhasil di deface.
+Di bawah ini adalah salah satu **website** pemerintahan Tiongkok yang berhasil di **deface** oleh entitas yang perannya adalah seorang **hacktivist**, motivasi seorang **hacktivist** adalah permasalahan politik. [4] 
 
 <img src="assets/ChinaWebsiteDefaced.jpg" style="zoom:100%;" />
+
+Source : https://www.wsj.com/articles/BL-CJB-15573
+
+## Website Defacement Damage
+
+Website Defacement termasuk kedalam serangan berbahaya karena attacker memiliki probabilitas tinggi kontrol penuh terhadap remote server. Kerugian yang dapat ditimbulkan sudah saya high;ight apa saja yang paling prominent, diantaranya adalah :
+
+1. Bocornya informasi customer dapat menimbulkan tuntutan hukum
+2. Kekayaan Intelektual berpotensi menimbulkan kerugian bisnis
+3. Data keuangan menyebar menuju kompetitor atau umum
+
+<img src="assets/WebSecurityDamage.png" style="zoom:100%;" />
 
 ## Web Shell
 
@@ -69,6 +81,8 @@ Potensi kerusakan dapat menimpa anda apapun **runtime engine** untuk **Web Serve
 [2] Steve Morgan. 2016. *Hackerpocalypse : A Cybercrime Revelation*. Technical Report. Cybersecurity Ventures. 1–24.
 
 [3] PwC. 2016. *Global Economic Crime Survey 2016: Adjusting the Lens on Economic Crime*. Technical Report. PwC. 1–31.
+
+[4] Hacktivism: A Short History. http://www.foreignpolicy.com/articles/2013/04/29/hacktivism [accessed on 13.06.13].
 
 # Web Browser
 
