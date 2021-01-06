@@ -6,29 +6,7 @@ Event Dadakan 7 January 2021
 
 ------------
 
-## 
-
-# Web Browser
-
-Berbicara tentang Web Security, bisa dimulai dari aplikasi browser. Sebuah pintu tempat customer kita berinteraksi dengan aplikasi yang kita ciptakan. Tugas dari aplikasi browser adalah melakukan rendering halaman web agar dapat dimengerti oleh manusia.
-
-  
-
-# HTTP
-
-# HTTP Headers
-
-# HTTP Cookies
-
-# Your Security State
-
-# Threats
-
-# DDoS Attack
-
-# Bug Bounty
-
-
+## <img src="assets/MemeWebSecurity.jpg" style="zoom:100%;" />
 
 # Web Security
 
@@ -36,13 +14,19 @@ Berbicara tentang Web Security, bisa dimulai dari aplikasi browser. Sebuah pintu
 
 <img src="assets/WebSecurityRoot.png" style="zoom:100%;" />
 
-Sekup pembahasan **Web Security** sering kali meluas dengan area Ilmu Keamanan komputer yang lain seperti **Operating System Security**, **Application Server Security**, **Pentesting**, **Social Engineering** dan hingga ke yang paling kompleks dan keren menggunakan **Artificial Intelligence**. 
+Sekup pembahasan **Web Security** sering kali meluas dengan area Ilmu Keamanan komputer yang lain seperti **Operating System Security**, **Application Server Security**, **Network Security**, **Social Engineering** dan hingga ke yang paling kompleks dan keren menggunakan **Artificial Intelligence**. 
 
 Misal pada paper penelitian di bawah ini, penerapan **Machine Learning** sebagai salah satu cabang **Artificial Intelligence** untuk membaca PIN yang kita typing (misal) melalui ATM (Mesin Transaksi Keuangan). Metode yang digunakannya adalah **Acoustic Emanations** dengan tingkat akurasi untuk **recover** **PIN** mencapai 60%!
 
 <img src="assets/ComplexComputerSecurity.JPG" style="zoom:100%;" />
 
 Contoh di atas termasuk kedalam **emerging computer security**, setiap minggu, bulan dan tahun hal hal baru muncul baik itu inovasi untuk eksploitasi keamanan komputer atau improvisasi ilmu keamanan komputer itu sendiri.
+
+## Cybercrime
+
+Faktor yang mempelopori masalah web security menjadi masalah kontemporer, karena adanya kegiatan cybercrime. Where there is **commerce**, there is also the risk for **cybercrime**. [1]
+
+**Cybercrime** adalah  kriminal (**crime**) di dunia nyata yang bertransformasi ke dalam dunia maya di era **the age of information**.  
 
 # Website Defacement
 
@@ -61,4 +45,26 @@ Dalam Jurnal yang ditulis Marco dan Nik yang berjudul ***"Hacktivism dan Website
 Potensi kerusakan dapat menimpa anda apapun **runtime engine** untuk **Web Server** yang anda gunakan, atau **Content Management System (CMS)** yang anda gunakan. Jika anda pengguna **CMS Wordpress**, kerentanan sistem dapat terjadi di sisi **CMS** itu sendiri atau melalui **plugins** yang anda gunakan.
 
 **In Early Development**, mostly anti viruses tidak bisa mendeteksi **Web Shell** sebagai **Virus** karena **Web** **Shell** bukan **file executable**, **nowadays anti viruses** sudah memiliki kemampuan **heuristic** yang lebih **advance**. Seperti **Static Code Analysis** untuk mendeteksi **Web Shell**.
+
+-------------
+
+[1] RSA Whitepaper. 2016. *2016: Current State of Cybercrime*. Technical Report. RSA. 1–7.
+
+# Web Browser
+
+Berbicara tentang Web Security, bisa dimulai dari aplikasi browser. Sebuah pintu tempat customer kita berinteraksi dengan aplikasi yang kita ciptakan. Tugas dari aplikasi browser adalah melakukan rendering halaman web agar dapat dimengerti oleh manusia.
+
+# HTTP
+
+# HTTP Headers
+
+# HTTP Cookies
+
+# Your Security State
+
+# Threats
+
+# DDoS Attack
+
+# Bug Bounty
 
