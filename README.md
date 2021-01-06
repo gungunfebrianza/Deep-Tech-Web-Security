@@ -56,13 +56,15 @@ Source : https://www.wsj.com/articles/BL-CJB-15573
 
 ## Website Defacement Damage
 
-Website Defacement termasuk kedalam serangan berbahaya karena attacker memiliki probabilitas tinggi kontrol penuh terhadap remote server. Kerugian yang dapat ditimbulkan sudah saya high;ight apa saja yang paling prominent, diantaranya adalah :
+**Website Defacement** termasuk kedalam serangan berbahaya karena **attacker** sudah berada dalam **stage** memiliki probabilitas tinggi kontrol penuh terhadap **remote server**. Kerugian yang dapat ditimbulkan sudah saya **high;ight** apa saja yang paling **prominent**, diantaranya adalah :
 
-1. Bocornya informasi customer dapat menimbulkan tuntutan hukum
+1. Bocornya informasi **customer** dapat menimbulkan tuntutan hukum
 2. Kekayaan Intelektual berpotensi menimbulkan kerugian bisnis
 3. Data keuangan menyebar menuju kompetitor atau umum
 
 <img src="assets/WebSecurityDamage.png" style="zoom:100%;" />
+
+Website Defacement dilakukan sebagai representasi identitas (meskipun sebagian besar anonymous) dan status bahwa attacker telah menembus web server milik korban. 
 
 ## Web Shell
 
