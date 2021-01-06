@@ -28,6 +28,12 @@ Faktor yang mempelopori masalah web security menjadi masalah kontemporer, karena
 
 **Cybercrime** adalah  kriminal (**crime**) di dunia nyata yang bertransformasi ke dalam dunia maya di era **the age of information**.  
 
+## Cost of Cybercrime
+
+Berdasarkan laporan Steve Morgan dalam technical reportnya yang berjudul Hackerpocalypse, estimasi cost kerugian yang ditimbulkan oleh cybercrime sampai tahun 2021 estimasinya bisa mencapai 6 Trilyun US Dollar. [2] 
+
+<img src="assets/CostCybercrime.png" style="zoom:100%;" />
+
 # Website Defacement
 
 Dalam Jurnal yang ditulis Marco dan Nik yang berjudul ***"Hacktivism dan Website Defacement : Motivation, Capabilities and Potential Threat."***, dikatakan bahwa **Hacktivism** dan Website Defacement seringkali memiliki keterkaitan. 
@@ -49,6 +55,8 @@ Potensi kerusakan dapat menimpa anda apapun **runtime engine** untuk **Web Serve
 -------------
 
 [1] RSA Whitepaper. 2016. *2016: Current State of Cybercrime*. Technical Report. RSA. 1–7.
+
+[2] Steve Morgan. 2016. *Hackerpocalypse : A Cybercrime Revelation*. Technical Report. Cybersecurity Ventures. 1–24.
 
 # Web Browser
 
