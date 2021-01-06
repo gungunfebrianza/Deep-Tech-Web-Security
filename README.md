@@ -32,9 +32,14 @@ Berbicara tentang Web Security, bisa dimulai dari aplikasi browser. Sebuah pintu
 
 # Website Defacement
 
-Dalam Jurnal yang ditulis Marco dan Nik yang berjudul "Hacktivism dan Website Defacement : Motivation, Capabilities and Potential Threat.", dikatakan bahwa Hacktivism dan Website Defacement seringkali memiliki keterkaitan. 
+Dalam Jurnal yang ditulis Marco dan Nik yang berjudul ***"Hacktivism dan Website Defacement : Motivation, Capabilities and Potential Threat."***, dikatakan bahwa **Hacktivism** dan Website Defacement seringkali memiliki keterkaitan. 
 
-Website Defacement adalah serangan yang ditujukan untuk mengubah tampilan suatu website. Seorang Defacer berhasil melakukan privilege escalation menembus server, mengubah halaman depan (index) pada web server.
+**Website Defacement** adalah serangan yang ditujukan untuk mengubah tampilan suatu **website**. Seorang **Defacer** berhasil melakukan **privilege escalation** menembus **server**, mengubah tampilan halaman depan (**index**) pada **Web Server**.
 
 
 
+## Web Shell
+
+Web Shell sering kali disebut dengan Web Server Malware, sebuah malicious script yang digunakan attacker agar attacker memiliki kontrol terhadap suatu remote server.
+
+Web Shell dapat ditulis menggunakan berbagai bahasa pemrograman, PHP paling menonjol karena banyak sekali penggunanya baik dari sisi pengembang Web Application ataupun Attacker. 
