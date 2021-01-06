@@ -97,21 +97,27 @@ Sewaktu kuliah saya membuat aplikasi **dekstop calculator**, namun setiap tombol
 
 Tanpa beliau sadari, **malware** yang saya buat sudah menginfeksi sistem operasinya. **Case study** ini adalah salah satu contoh tugas kuliah saya waktu lampau.
 
-<img src="assets/InfectedPC.png" style="zoom:70%;" />
+<img src="assets/InfectedPC.PNG" style="zoom:70%;" />
 
 #### Malicious Message
 
 Serangan juga dapat dilakukan melalui **social media** atau **instant message** seperti **whats app dekstop**, sebagai contoh **sender** sebagai **malicious insiders** meminta anda untuk **download** dan mengeksekusi **software** tertentu. 
 
-<img src="assets/MaliciousMessage.png" style="zoom:70%;" />
+<img src="assets/MaliciousMessage.PNG" style="zoom:70%;" />
 
 #### Infected USB Attack
 
-Selain dari malicious message, malicious insiders juga dapat menggunakan USB yang telah terinfeksi malware untuk dipasang ke dalam komputer atau laptop yang anda, admin anda atau staff anda. Ada Autorun dan konten yang bisa menjadi eksekutor sistem operasi terinfeksi.
+Selain dari **malicious message**, **malicious insiders** juga dapat menggunakan USB yang telah terinfeksi **malware** untuk dipasang ke dalam komputer atau laptop yang anda, admin anda atau staff anda. Ada **Autorun** dan konten yang bisa menjadi eksekutor sistem operasi terinfeksi.
 
-<img src="assets/USBAttack.png" style="zoom:70%;" />
+<img src="assets/USBAttack.PNG" style="zoom:70%;" />
 
+#### Malware Execution
 
+Jadi malicious insiders, akan menggunakan malwares, malicious message, atau infected USB Attack (Direct Physical Access) agar akhirnya mampu mengeksekusi Trojan. Karena pada kasus ini attacker ingin melakukan Website Defacement, attacker akan berusaha menginfeksikan Trojan pada sistem komputer anda, admin anda, atau staff anda.
+
+Tujuan akhirnya adalah mengetahui akses-akses menuju server yang anda kelola, baik melalui SSH account atau FTP.
+
+<img src="assets/MalwareExecution.PNG" style="zoom:70%;" />
 
 ## Web Shell
 
