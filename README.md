@@ -73,6 +73,16 @@ Di bawah ini adalah value chain yang di desain agar serangan cyber attack dapat 
 
 <img src="assets/CyberCrimeEcosystem.png" style="zoom:100%;" />
 
+## Cybercrime as a Service
+
+Ekosistem di dukung oleh 24 jasa kunci  yang membuat kegiatan cybercrime menjadi permasalahan kontemporer di dunia keamanan komputer.
+
+<img src="assets/CaaS.png" style="zoom:100%;" />
+
+Sumber : [Casting The Dark Web In A New Light](https://sloanreview.mit.edu/article/casting-the-dark-web-in-a-new-light/)
+
+## Hackforum.net
+
 
 
 # Website Defacement
