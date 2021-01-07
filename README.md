@@ -1,12 +1,31 @@
 # Deep-Tech Web Security
 
-**Gun Gun Febrianza**
+Penulis, Pemateri : **Gun Gun Febrianza**
 
 Event Dadakan 7 January 2021
 
 ------------
 
+
+
 ## <img src="assets/MemeWebSecurity.jpg" style="zoom:100%;" />
+
+# Content Tables
+
+- Web Security
+  - Cybercrime
+  - Cost of Cybercrime
+  - Cybercrime Adagium
+- Website Defacement
+  - Website Defacement Damage
+  - Attack Vector
+    - Social Engineering
+    - Malicious Insiders
+      - Malicious Software
+      - Malicious Message
+      - Infected USB Attack
+      - Malware Execution
+      - Remote Access Trojan (RAT)
 
 # Web Security
 
@@ -117,15 +136,35 @@ https://github.com/gungunfebrianza/USB-Disk-Security
 
 <img src="assets/USBDiskSecurity.jpg" style="zoom:100%;" />
 
-Software ini dapat memblokir autorun dan membaca isi autorun dalam USB.
+**Software** ini dapat memblokir **autorun** dan membaca isi **autorun** dalam USB.
 
 #### Malware Execution
 
-Jadi malicious insiders, akan menggunakan malwares, malicious message, atau infected USB Attack (Direct Physical Access) agar akhirnya mampu mengeksekusi Trojan. Karena pada kasus ini attacker ingin melakukan Website Defacement, attacker akan berusaha menginfeksikan Trojan pada sistem komputer anda, admin anda, atau staff anda.
+Jadi **malicious insiders**, akan menggunakan **malwares**, **malicious message**, atau **infected USB Attack** (**Direct Physical Access**) agar akhirnya mampu mengeksekusi **Trojan**. Karena pada kasus ini **attacker** ingin melakukan **Website Defacement**, **attacker** akan berusaha menginfeksikan **Trojan** pada sistem komputer anda, admin anda, atau staff anda.
 
-Tujuan akhirnya adalah mengetahui akses-akses menuju server yang anda kelola, baik melalui SSH account atau FTP.
+Tujuan akhirnya adalah mengetahui akses-akses menuju **server** yang anda kelola, baik melalui **SSH account** atau **FTP**.
 
 <img src="assets/MalwareExecution.PNG" style="zoom:70%;" />
+
+#### Remote Access Trojan (RAT)
+
+Kemampuan **Trojan** sangat powerful ketika ia telah sukses menginfeksi sistem operasi dalam komputer/laptop anda, admin anda atau staff-staff anda. **Trojan** bisa lebih dari sekedar mendapatkan **FTP** atau **SSH** menuju **server** yang dipegang oleh anda, admin anda atau staff-staff anda untuk aksi **Website Defacement**.
+
+<img src="assets/Trojan.PNG" style="zoom:70%;" />
+
+Di bawah ini adalah beberapa penampakan **software Trojan** :
+
+<img src="assets/Rat (2).png" style="zoom:100%;" />
+
+Terdapat fitur yang menjadi ciri khas seperti **Keylogger**, **File Manager**, **Recording** dan sebagainya. **Trojan** ini akan memproduksi **stubs** yang selanjutnya diinfeksikan menuju sistem anda, admin anda dan staff-staff anda oleh malicious insiders.
+
+<img src="assets/Rat (3).png" style="zoom:100%;" />
+
+Pada **Malware** **Tojan** varian lain.. terdapat fitur yang dapat mengirimkan pesan palsu sebagai hiburan si **cracker system**.
+
+<img src="assets/Rat (1).png" style="zoom:100%;" />
+
+
 
 ## Web Shell
 
