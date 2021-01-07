@@ -16,6 +16,9 @@ Event Dadakan 7 January 2021
   - Cybercrime
   - Cost of Cybercrime
   - Cybercrime Adagium
+  - Cybercrime Ecosystem
+  - Cybercrime as a Service
+  - Hackforum.net
 - Website Defacement
   - Website Defacement Damage
   - Attack Vector
@@ -27,13 +30,18 @@ Event Dadakan 7 January 2021
       - Malware Execution
       - Remote Access Trojan (RAT)
     - File Upload Vulnerability
-    - 
+      - Web Shell
+      - Ransomware
+      - Crypto Miner
+      - Botnet
     - Injection - XSS
       - XSS Attack Type
       - Innocent Code
       - Session Hijacking
       - Phising
       - XSS Cheatsheet
+- Prevention & Mitigation
+- Furthermore
 
 # Web Security
 
@@ -83,7 +91,13 @@ Sumber : [Casting The Dark Web In A New Light](https://sloanreview.mit.edu/artic
 
 ## Hackforum.net
 
+Hackforum.net adalah salah satu forum hacker berkelas yang tetap hadir sampai saat ini, forum ini terus aktif semenjak penulis masih duduk dibangku kuliah semester pertama sampai hari ini. Di bawah ini adalah contoh malwares yang diperjual belikan diforum :
 
+<img src="assets/MalwareBlackMarket.png" style="zoom:100%;" />
+
+Ubu adalah sub forum lainnya dengan tingkat aktivitas interaksi yang sangat tinggi :
+
+<img src="assets/Hackforum.png" style="zoom:100%;" />
 
 # Website Defacement
 
