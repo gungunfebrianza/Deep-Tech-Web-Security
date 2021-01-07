@@ -204,6 +204,10 @@ Dalam bahasa yang lebih luar fitur **upload** yang dimiliki oleh **webshell** bi
 
 <img src="assets/RemoteControl.PNG" style="zoom:100%;" />
 
+#### Crypto Miner
+
+Selain **ransomware** adalah diam-diam **server** yang anda gunakan, **resources** yang dimilikinya akan digunakan untuk melakukan mining **bitcoin** atau **alternative coin** lainnya. Sehingga **attacker** mendapatkan keuntungan **asset digital** yang memiliki nilai **moneter**.
+
 **Web Shell** dapat ditulis menggunakan berbagai bahasa pemrograman, PHP paling menonjol karena banyak sekali penggunanya baik dari sisi pengembang **Web Application** ataupun **Attacker**. Dapat digunakan untuk upload dan eksekusi **malware** yang ditulis menggunakan bahasa pemrograman lainnya seperti C++ yang sangat efektif.
 
 Potensi kerusakan dapat menimpa anda apapun **runtime engine** untuk **Web Server** yang anda gunakan, atau **Content Management System (CMS)** yang anda gunakan. Jika anda pengguna **CMS Wordpress**, kerentanan sistem dapat terjadi di sisi **CMS** itu sendiri atau melalui **plugins** yang anda gunakan.
