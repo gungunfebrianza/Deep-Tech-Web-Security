@@ -41,6 +41,12 @@ Event Dadakan 7 January 2021
       - Phising
       - XSS Cheatsheet
 - Prevention & Mitigation
+  - Web Application Firewall (WAF)
+  - Bug Bounty Program (BBP)
+  - Principle of Least Privilege (POLP)
+  - Open Web Application Security Project (OWASP)
+  - Fear Uncertainty & Doubt (FUD)
+  - Bored Technical Solution (BTS)
 - Furthermore
 
 # Web Security
@@ -335,9 +341,21 @@ Layanan lain seperti **AWS Shield** dan **Cloudflare** menyediakan solusi untuk 
 
 Kita bisa mengundang organisasi2 yang aktif di bidang keamanan untuk menguji **web application** yang kita miliki, lengkap dengan **reward** yang harus kita berikan jika mereka berhasil menemukannya. Jangan sampai PHP ya.
 
+## Principle of Least Privilege (POLP)
 
+Membatasi **privilege** untuk setiap role yang ingin kita berikan baik untuk kita, staff kita dan admin yang akan mengelola **web application** kita.
 
-1. Check Logs for Suspicious Activity. 
+## Open Web Application Security Project (OWASP)
+
+OWASP Adalah komunitas online yang menyediakan **resources** secara terbuka agar kita dapat meningkatkan **information security awareness** terkait perkembangan dunia keamanan komputer.
+
+## Fear Uncertainty & Doubt (FUD)
+
+Gejala psikologis ini normal dihadapi oleh para praktisi keamanan komputer.
+
+## Bored Technical Solution (BTS)
+
+1. You Check Logs for Suspicious Activity. 
 2. Actively Vulnerability Scanning
 3. Update Unpatched OS.
 4. Out-of-date Software Version
