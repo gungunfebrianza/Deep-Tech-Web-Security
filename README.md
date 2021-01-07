@@ -93,7 +93,7 @@ Sumber : [Casting The Dark Web In A New Light](https://sloanreview.mit.edu/artic
 
 Hackforum.net adalah salah satu forum hacker berkelas yang tetap hadir sampai saat ini, forum ini terus aktif semenjak penulis masih duduk dibangku kuliah semester pertama sampai hari ini. Di bawah ini adalah contoh malwares yang diperjual belikan diforum :
 
-<img src="assets/MalwareBlackMarket.png" style="zoom:100%;" />
+<img src="assets/MalwareBlackMarket.PNG" style="zoom:100%;" />
 
 Ubu adalah sub forum lainnya dengan tingkat aktivitas interaksi yang sangat tinggi :
 
@@ -309,15 +309,13 @@ Di bawah ini adalah contoh **malicious script** yang dapat digunakan untuk membu
 
 #### Phising
 
-Ini hanyalah salah satu contoh dampak yang dapat ditimbulkan dari serangan **XSS Attack** yang kombinasinya dan kerumitannya bisa variatif, misal **XSS Attack** agar bisa melakukan serangan **phising**. Logikanya sama seperti di atas namun mengarahkan user ke alamat yang desain websitenya misal sama persis seperti facebook.
+Ini hanyalah salah satu contoh dampak yang dapat ditimbulkan dari serangan **XSS Attack** yang kombinasinya dan kerumitannya bisa variatif, misal **XSS Attack** agar bisa melakukan serangan **phising**. Logikanya sama seperti di atas namun mengarahkan user ke alamat yang desain websitenya misal sama persis seperti **facebook**.
 
 #### XSS Cheatsheet
 
-Solusinya kita dapat mempelajari XSS Filter Evasion Cheatsheet yang disediakan OWASP, melakukan manajemen validation, Sanitation dan Whitelist Strategy : 
+Solusinya kita dapat mempelajari **XSS Filter Evasion Cheatsheet** yang disediakan **OWASP**, melakukan manajemen **validation**, **Sanitation** dan **Whitelist Strategy** : 
 
 https://owasp.org/www-community/xss-filter-evasion-cheatsheet
-
-
 
 # Prevention & Mitigation
 
@@ -346,22 +344,3 @@ Di bawah ini adalah buku2 yang penulis rekomendasikan untuk anda baca :
 [4] Hacktivism: A Short History. http://www.foreignpolicy.com/articles/2013/04/29/hacktivism [accessed on 13.06.13].
 
 [5] https://www.bleepingcomputer.com/news/security/how-ryuk-ransomware-operators-made-34-million-from-one-victim/
-
-# Web Browser
-
-Berbicara tentang Web Security, bisa dimulai dari aplikasi browser. Sebuah pintu tempat customer kita berinteraksi dengan aplikasi yang kita ciptakan. Tugas dari aplikasi browser adalah melakukan rendering halaman web agar dapat dimengerti oleh manusia.
-
-# HTTP
-
-# HTTP Headers
-
-# HTTP Cookies
-
-# Your Security State
-
-# Threats
-
-# DDoS Attack
-
-# Bug Bounty
-
