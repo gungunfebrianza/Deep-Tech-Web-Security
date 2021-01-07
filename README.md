@@ -178,19 +178,21 @@ Pada **Malware** **Tojan** varian lain.. terdapat fitur yang dapat mengirimkan p
 
 **Website Defacement** dapat terjadi karena kerentanan dalam fitur **File Upload**.
 
-**File Upload** adalah salah satu fitur yang secara umum dimiliki oleh suatu **Web Application**. Serangan ini dilakukan secara langsung melalui fitur upload dan sangat efektif jika berhasil. 
+**File Upload** adalah salah satu fitur yang secara umum dimiliki oleh suatu **Web Application**. Serangan ini dilakukan secara langsung melalui fitur **upload** dan sangat efektif jika berhasil. 
 
 <img src="assets/FileUpload.png" style="zoom:100%;" />
 
 Sebelumnya anda telah mempelajari cara kerja **trojan**, jika **malicious script** dengan **payload** kemampuan seperti **trojan** berhasil di tanam maka **attacker** memiliki kemampuan **powerful** pada **Remote Server**. 
 
-<img src="assets/WebSHell.png" style="zoom:100%;" />
-
-Eksploitasi lebih jauh dapat dilakukan mula
-
 #### Web Shell
 
-**Web Shell** sering kali disebut dengan **Web Server Malware**, sebuah **malicious script** yang digunakan **attacker** agar **attacker** memiliki kontrol terhadap suatu **Remote Server**. 
+**Web Shell** sering kali disebut dengan **Web Server Malware**, sebuah **malicious script** yang digunakan **attacker** agar **attacker** memiliki **Persistent Control** terhadap suatu **Remote Server**. 
+
+<img src="assets/WebSHell.png" style="zoom:100%;" />
+
+Eksploitasi lebih jauh dapat dilakukan, jika terdapat miskonfigurasi pada **server**, atau **OS server** belum di **update** dan terdapat **CVE** (**Common Vulnerability Exposure**), **privilege escalation** dapat dilakukan dalam **server** untuk menjadi **superuser**. Seluruh resources telah di **capture** oleh **attacker**. 
+
+
 
 Setiap **Web Shell** memiliki **payload** yang dapat digunakan **attacker** untuk melakukan **shell command execution**, **code execution**, **database enumeration**, dan **file management**.
 
