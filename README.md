@@ -96,13 +96,15 @@ Source : https://www.wsj.com/articles/BL-CJB-15573
 
 Segala metode dan kemungkinan akan dicoba sampai sistem keamanan berhasil dijebol.
 
-Jika anda mengalami pristiwa **Website Defacement**, maka anda telah menghadapi serangan yang sangat powerful. Kenapa **Powerful** ? penyebabnya sangat banyak sekali dan anda harus melakukan **tracing** sumber penyebabnya. 
+Jika anda mengalami pristiwa **Website Defacement**, maka anda telah menghadapi serangan yang sangat **powerful**. Kenapa **Powerful** ? penyebabnya sangat banyak sekali dan anda harus melakukan **tracing** sumber penyebabnya. 
 
 ### Social Engineering
 
 *You, your admin, or your staff are tricked by someone internal or external*. Tahapnya dapat terjadi ketika anda, admin atau pegawai anda berhasil dikelabui untuk menuruti keinginan penyerang menggunakan **social engineering**. Sehingga sedikit demi sedikit atau sekaligus penyerang akhirnya memiliki akses penuh terhadap sistem.
 
 ### Malicious Insiders
+
+**Website Defacement** juga dapat terjadi dimulai dari serangan **Malicious Insiders**.
 
 Seseorang yang berada di dekat anda, teman anda atau pegawai anda sendiri menjadi **Evil Actor** yang berhasil mengelabui anda baik itu menggunakan **Social Engineering** atau **Direct Physical Access**, pada **computer/laptop** yang sedang anda, admin atau staff gunakan untuk melakukan infeksi **Malware** (**Malicious Software**).
 
@@ -158,7 +160,7 @@ Di bawah ini adalah beberapa penampakan **software Trojan** :
 
 <img src="assets/RAT1.png" style="zoom:100%;" />
 
-Terdapat fitur yang menjadi ciri khas seperti **Keylogger**, **File Manager**, **Recording** dan sebagainya. **Trojan** ini akan memproduksi **stubs** yang selanjutnya diinfeksikan menuju sistem anda, admin anda dan staff-staff anda oleh malicious insiders.
+Terdapat fitur yang menjadi ciri khas seperti **Keylogger**, **File Manager**, **Recording** dan sebagainya. **Trojan** ini akan memproduksi **stubs** yang selanjutnya diinfeksikan menuju sistem anda, admin anda dan staff-staff anda oleh **malicious insiders**.
 
 <img src="assets/RAT3.png" style="zoom:100%;" />
 
@@ -168,13 +170,15 @@ Pada **Malware** **Tojan** varian lain.. terdapat fitur yang dapat mengirimkan p
 
 ### Injection - XSS
 
-Serangan **XSS**, terjadi pada **surface client side**. Penyerang akan menyisipkan **malicious script** ke dalam **website** yang legit di mata pengunjung (korban). Jika serangan berhasil dilakukan dan tidak diketahui oleh developer web application itu sendiri, selanjutnya serangan terjadi saat korban mengunjungi **web application** yang telah terinfeksi **XSS Attack**. 
+**Website Defacement** juga dapat terjadi karena serangan **XSS**.
+
+Serangan **XSS**, terjadi pada **surface client side**. Penyerang akan menyisipkan **malicious script** ke dalam **website** yang legit di mata pengunjung (korban). Jika serangan berhasil dilakukan dan tidak diketahui oleh **developer web application** itu sendiri, selanjutnya serangan terjadi saat korban mengunjungi **web application** yang telah terinfeksi **XSS Attack**. 
 
 **Web Application** akan menjadi medium **attacker** untuk menyerang para pengunjung dan menginfeksi mereka melalui **malicious script** yang disisipkan dalam **Web Application**. 
 
 #### Innocent Code
 
-Serangan berupa HTML injection yang lolos karena developer tidak mampu membangun secure code, ketika attacker tahu terdapat innocent dalam back-end exploitasi dapat dilakukan.
+Serangan berupa **HTML injection** yang lolos karena **developer** tidak mampu membangun **secure code**, ketika attacker tahu terdapat **innocent code** dalam **back-end** exploitasi dapat dilakukan.
 
 
 
