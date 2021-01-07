@@ -154,15 +154,15 @@ Kemampuan **Trojan** sangat powerful ketika ia telah sukses menginfeksi sistem o
 
 Di bawah ini adalah beberapa penampakan **software Trojan** :
 
-<img src="assets/Rat (2).png" style="zoom:100%;" />
+<img src="assets/Rat (2).PNG" style="zoom:100%;" />
 
 Terdapat fitur yang menjadi ciri khas seperti **Keylogger**, **File Manager**, **Recording** dan sebagainya. **Trojan** ini akan memproduksi **stubs** yang selanjutnya diinfeksikan menuju sistem anda, admin anda dan staff-staff anda oleh malicious insiders.
 
-<img src="assets/Rat (3).png" style="zoom:100%;" />
+<img src="assets/Rat (3).PNG" style="zoom:100%;" />
 
 Pada **Malware** **Tojan** varian lain.. terdapat fitur yang dapat mengirimkan pesan palsu sebagai hiburan si **cracker system**.
 
-<img src="assets/Rat (1).png" style="zoom:100%;" />
+<img src="assets/Rat (1).PNG" style="zoom:100%;" />
 
 
 
