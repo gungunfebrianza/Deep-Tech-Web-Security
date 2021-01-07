@@ -35,7 +35,7 @@ Event Dadakan 7 January 2021
 
 Sekup pembahasan **Web Security** sering kali meluas dengan area Ilmu Keamanan komputer yang lain seperti **Operating System Security**, **Application Server Security**, **Network Security**, **Social Engineering** dan hingga ke yang paling kompleks dan keren menggunakan **Artificial Intelligence**. 
 
-Misal pada paper penelitian di bawah ini, penerapan **Machine Learning** sebagai salah satu cabang **Artificial Intelligence** untuk membaca PIN yang kita typing (misal) melalui ATM (Mesin Transaksi Keuangan). Metode yang digunakannya adalah **Acoustic Emanations** dengan tingkat akurasi untuk **recover** **PIN** mencapai 60%!
+Misal pada paper penelitian di bawah ini, penerapan **Machine Learning** sebagai salah satu cabang **Artificial Intelligence** untuk membaca PIN yang kita **typing** (misal) melalui ATM (Mesin Transaksi Keuangan). Metode yang digunakannya adalah **Acoustic Emanations** dengan tingkat akurasi untuk **recover** **PIN** mencapai 60%!
 
 <img src="assets/ComplexComputerSecurity.JPG" style="zoom:100%;" />
 
@@ -43,19 +43,19 @@ Contoh di atas termasuk kedalam **emerging computer security**, setiap minggu, b
 
 ## Cybercrime
 
-Faktor yang mempelopori masalah web security menjadi masalah kontemporer, karena adanya kegiatan cybercrime. Where there is **commerce**, there is also the risk for **cybercrime**. [1]
+Faktor yang mempelopori masalah **web security** menjadi masalah kontemporer, karena adanya kegiatan **cybercrime**. Where there is **commerce**, there is also the risk for **cybercrime**. [1]
 
 **Cybercrime** adalah  kriminal (**crime**) di dunia nyata yang bertransformasi ke dalam dunia maya di era **the age of information**.  
 
 ## Cost of Cybercrime
 
-Berdasarkan laporan Steve Morgan dalam technical reportnya yang berjudul Hackerpocalypse, estimasi cost kerugian yang ditimbulkan oleh cybercrime sampai tahun 2021 estimasinya bisa mencapai 6 Trilyun US Dollar. [2] 
+Berdasarkan laporan **Steve Morgan** dalam **technical report** nya yang berjudul **Hackerpocalypse**, estimasi **cost** kerugian yang ditimbulkan oleh **cybercrime** sampai tahun 2021 estimasinya bisa mencapai 6 Trilyun US Dollar. [2] 
 
 <img src="assets/CostCybercrime.png" style="zoom:100%;" />
 
 ## Cybercrime Adagium
 
-Berdasarkan laporan yang berjudul Global Economic Crime Survey, tahun 2016 hampir 1/3 perusahaan mengalami gangguan cybercrime. Meskipun rata-rata 61% seorang CEO concern dengan keadaan cyber security dalam perusahaannya. [3]
+Berdasarkan laporan yang berjudul **Global Economic Crime Survey**, tahun 2016 hampir 1/3 perusahaan mengalami gangguan **cybercrime**. Meskipun rata-rata 61% seorang CEO concern dengan keadaan cyber security dalam perusahaannya. [3]
 
 <img src="assets/CyberCrimeAdagium.PNG" style="zoom:100%;" />
 
@@ -112,9 +112,9 @@ Seseorang yang berada di dekat anda, teman anda atau pegawai anda sendiri menjad
 
 #### Malicious Software
 
-Sewaktu kuliah saya membuat aplikasi **dekstop calculator**, namun setiap tombol dalam **calculator** menyimpan fungsi lain dibelakang layar, salah satunya adalah **drop** **malware** untuk infeksi sistem operasi. Alih-alih saya melakukan social engineering meminta teman yang masih awam untuk menguji aplikasi dekstop **calculator** saya.
+Sewaktu kuliah saya membuat aplikasi **dekstop calculator**, namun setiap tombol dalam **calculator** menyimpan fungsi lain dibelakang layar, salah satunya adalah **drop** **malware** untuk infeksi sistem operasi. Alih-alih saya melakukan **social engineering** meminta teman yang masih awam untuk menguji aplikasi **dekstop** **calculator** saya.
 
-Tanpa beliau sadari, **malware** yang saya buat sudah menginfeksi sistem operasinya. **Case study** ini adalah salah satu contoh tugas kuliah saya waktu lampau.
+Tanpa beliau sadari, **malware** yang saya buat akhirnya menginfeksi sistem operasinya. **Case study** ini adalah salah satu contoh tugas kuliah saya waktu lampau.
 
 <img src="assets/InfectedPC.PNG" style="zoom:70%;" />
 
@@ -164,7 +164,13 @@ Pada **Malware** **Tojan** varian lain.. terdapat fitur yang dapat mengirimkan p
 
 <img src="assets/RAT1.png" style="zoom:100%;" />
 
+### Injection - XSS
 
+Serangan **XSS**, terjadi pada **surface client side**. Penyerang akan menyisipkan malicious script ke dalam website yang legit di mata pengunjung (korban).
+
+#### XSS Cheatsheet
+
+https://owasp.org/www-community/xss-filter-evasion-cheatsheet
 
 ## Web Shell
 
@@ -175,6 +181,18 @@ Pada **Malware** **Tojan** varian lain.. terdapat fitur yang dapat mengirimkan p
 Potensi kerusakan dapat menimpa anda apapun **runtime engine** untuk **Web Server** yang anda gunakan, atau **Content Management System (CMS)** yang anda gunakan. Jika anda pengguna **CMS Wordpress**, kerentanan sistem dapat terjadi di sisi **CMS** itu sendiri atau melalui **plugins** yang anda gunakan.
 
 **In Early Development**, mostly anti viruses tidak bisa mendeteksi **Web Shell** sebagai **Virus** karena **Web** **Shell** bukan **file executable**, **nowadays anti viruses** sudah memiliki kemampuan **heuristic** yang lebih **advance**. Seperti **Static Code Analysis** untuk mendeteksi **Web Shell**.
+
+# Prevention & Mitigation
+
+Check Logs for Suspicious Activity. 
+
+Out-of-date Software Version
+
+Other-account on shared server? huh
+
+Other infected application on the server? (needle in the haystack)
+
+
 
 -------------
 
