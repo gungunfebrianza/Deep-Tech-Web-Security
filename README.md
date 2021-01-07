@@ -241,6 +241,8 @@ Ini hanyalah salah satu contoh dampak yang dapat ditimbulkan dari serangan **XSS
 
 #### XSS Cheatsheet
 
+Solusinya kita dapat mempelajari XSS Filter Evasion Cheatsheet yang disediakan OWASP, melakukan manajemen validation, Sanitation dan Whitelist Strategy : 
+
 https://owasp.org/www-community/xss-filter-evasion-cheatsheet
 
 ## Web Shell
