@@ -166,7 +166,7 @@ Pada **Malware** **Tojan** varian lain.. terdapat fitur yang dapat mengirimkan p
 
 ### Injection - XSS
 
-Serangan **XSS**, terjadi pada **surface client side**. Penyerang akan menyisipkan malicious script ke dalam website yang legit di mata pengunjung (korban).
+Serangan **XSS**, terjadi pada **surface client side**. Penyerang akan menyisipkan **malicious script** ke dalam **website** yang legit di mata pengunjung (korban). Serangan terjadi saat korban mengunjungi **web application** yang telah ter **compromise XSS Attack**. 
 
 #### XSS Cheatsheet
 
@@ -192,7 +192,11 @@ Other-account on shared server? huh
 
 Other infected application on the server? (needle in the haystack)
 
+# Furthermore
 
+Di bawah ini adalah buku2 yang penulis rekomendasikan untuk anda baca :
+
+<img src="assets/BookWebSecurity.PNG" style="zoom:60%;" />
 
 -------------
 
