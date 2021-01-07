@@ -368,6 +368,10 @@ Di bawah ini adalah buku2 yang penulis rekomendasikan untuk anda baca :
 
 <img src="assets/BookWebSecurity.PNG" style="zoom:60%;" />
 
+<img src="assets/BookWebSecurity2.PNG" style="zoom:60%;" />
+
+<img src="assets/BookWebSecurity3.PNG" style="zoom:60%;" />
+
 -------------
 
 [1] RSA Whitepaper. 2016. *2016: Current State of Cybercrime*. Technical Report. RSA. 1–7.
