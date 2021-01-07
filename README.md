@@ -178,9 +178,13 @@ Serangan **XSS**, terjadi pada **surface client side**. Penyerang akan menyisipk
 
 #### Innocent Code
 
-Serangan berupa **HTML injection** yang lolos karena **developer** tidak mampu membangun **secure code**, ketika attacker tahu terdapat **innocent code** dalam **back-end** exploitasi dapat dilakukan.
+Serangan berupa **HTML injection** yang lolos karena **developer** tidak mampu membangun **secure code**, ketika **attacker** mengetahui terdapat **innocent code** dalam **back-end** maka exploitasi akan terus dilakukan.
 
+<img src="assets/xss1.png" style="zoom:100%;" />
 
+**Malicious Script** memiliki akses penuh terhadap seluruh **objects** dalam **browser environment**. Hal yang dapat terjadi selanjutnya adalah **session hijacking**. **Cookies** tempat menyimpan **session** bisa diambil, **attacker** dapat menyamar, mencuri data dan bertindak seolah-olah seperti pengguna (pemilik **session**). 
+
+<img src="assets/xss2.png" style="zoom:100%;" />
 
 #### XSS Cheatsheet
 
