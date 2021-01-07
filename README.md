@@ -26,6 +26,8 @@ Event Dadakan 7 January 2021
       - Infected USB Attack
       - Malware Execution
       - Remote Access Trojan (RAT)
+    - Injection - XSS
+      - XSS Cheatsheet
 
 # Web Security
 
@@ -166,7 +168,15 @@ Pada **Malware** **Tojan** varian lain.. terdapat fitur yang dapat mengirimkan p
 
 ### Injection - XSS
 
-Serangan **XSS**, terjadi pada **surface client side**. Penyerang akan menyisipkan **malicious script** ke dalam **website** yang legit di mata pengunjung (korban). Serangan terjadi saat korban mengunjungi **web application** yang telah ter **compromise XSS Attack**. 
+Serangan **XSS**, terjadi pada **surface client side**. Penyerang akan menyisipkan **malicious script** ke dalam **website** yang legit di mata pengunjung (korban). Jika serangan berhasil dilakukan dan tidak diketahui oleh developer web application itu sendiri, selanjutnya serangan terjadi saat korban mengunjungi **web application** yang telah terinfeksi **XSS Attack**. 
+
+**Web Application** akan menjadi medium **attacker** untuk menyerang para pengunjung dan menginfeksi mereka melalui **malicious script** yang disisipkan dalam **Web Application**. 
+
+#### Innocent Code
+
+Serangan berupa HTML injection yang lolos karena developer tidak mampu membangun secure code, ketika attacker tahu terdapat innocent dalam back-end exploitasi dapat dilakukan.
+
+
 
 #### XSS Cheatsheet
 
