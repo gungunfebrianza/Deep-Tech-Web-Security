@@ -194,9 +194,17 @@ Eksploitasi lebih jauh dapat dilakukan, jika terdapat miskonfigurasi pada **serv
 
 <img src="assets/WebShellFeature.png" style="zoom:100%;" />
 
+#### Ransomware
 
+Dalam bahasa yang lebih luar fitur **upload** yang dimiliki oleh **webshell** bisa digunakan untuk mengeksekusi **Ransomware, the ultimate killer enterprise**. 
 
-**Web Shell** dapat ditulis menggunakan berbagai bahasa pemrograman, PHP paling menonjol karena banyak sekali penggunanya baik dari sisi pengembang **Web Application** ataupun **Attacker**. 
+**Ransomware** adalah bisnis yang sangat menggiurkan dari kacamata **attacker** antagonis. **Ryuk** **Ransomware** adalah salah satu contoh bagaimana sekali serangan **ransomware** pemiliknya mendapat keuntungan mencapai 34 juta US Dollar. [5] 
+
+**Theoritically**, **Historically**, **ransomware** dapat menyerang sistem operasi **windows**, **linux**, **macos**.
+
+<img src="assets/RemoteControl.PNG" style="zoom:100%;" />
+
+**Web Shell** dapat ditulis menggunakan berbagai bahasa pemrograman, PHP paling menonjol karena banyak sekali penggunanya baik dari sisi pengembang **Web Application** ataupun **Attacker**. Dapat digunakan untuk upload dan eksekusi **malware** yang ditulis menggunakan bahasa pemrograman lainnya seperti C++ yang sangat efektif.
 
 Potensi kerusakan dapat menimpa anda apapun **runtime engine** untuk **Web Server** yang anda gunakan, atau **Content Management System (CMS)** yang anda gunakan. Jika anda pengguna **CMS Wordpress**, kerentanan sistem dapat terjadi di sisi **CMS** itu sendiri atau melalui **plugins** yang anda gunakan.
 
@@ -296,6 +304,8 @@ Di bawah ini adalah buku2 yang penulis rekomendasikan untuk anda baca :
 [3] PwC. 2016. *Global Economic Crime Survey 2016: Adjusting the Lens on Economic Crime*. Technical Report. PwC. 1–31.
 
 [4] Hacktivism: A Short History. http://www.foreignpolicy.com/articles/2013/04/29/hacktivism [accessed on 13.06.13].
+
+[5] https://www.bleepingcomputer.com/news/security/how-ryuk-ransomware-operators-made-34-million-from-one-victim/
 
 # Web Browser
 
