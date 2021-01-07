@@ -178,7 +178,9 @@ Pada **Malware** **Tojan** varian lain.. terdapat fitur yang dapat mengirimkan p
 
 **Website Defacement** dapat terjadi karena kerentanan dalam fitur **File Upload**.
 
-**File Upload** adalah salah satu fitur yang secara umum dimiliki oleh suatu **Web Application**. 
+**File Upload** adalah salah satu fitur yang secara umum dimiliki oleh suatu **Web Application**. Serangan ini dilakukan secara langsung melalui fitur upload dan sangat efektif jika berhasil. 
+
+<img src="assets/FileUpload.png" style="zoom:100%;" />
 
 #### Web Shell
 
