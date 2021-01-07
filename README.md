@@ -182,6 +182,12 @@ Pada **Malware** **Tojan** varian lain.. terdapat fitur yang dapat mengirimkan p
 
 <img src="assets/FileUpload.png" style="zoom:100%;" />
 
+Sebelumnya anda telah mempelajari cara kerja **trojan**, jika **malicious script** dengan **payload** kemampuan seperti **trojan** berhasil di tanam maka **attacker** memiliki kemampuan **powerful** pada **Remote Server**. 
+
+<img src="assets/WebSHell.png" style="zoom:100%;" />
+
+Eksploitasi lebih jauh dapat dilakukan mula
+
 #### Web Shell
 
 **Web Shell** sering kali disebut dengan **Web Server Malware**, sebuah **malicious script** yang digunakan **attacker** agar **attacker** memiliki kontrol terhadap suatu **Remote Server**. 
