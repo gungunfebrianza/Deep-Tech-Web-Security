@@ -67,6 +67,14 @@ Berdasarkan laporan yang berjudul **Global Economic Crime Survey**, tahun 2016 h
 
 <img src="assets/CyberCrimeAdagium.PNG" style="zoom:100%;" />
 
+## Cybercrime Ecosystem
+
+Di bawah ini adalah value chain yang di desain agar serangan cyber attack dapat terus dilakukan.
+
+<img src="assets/CyberCrimeEcosystem.png" style="zoom:100%;" />
+
+
+
 # Website Defacement
 
 Dalam Jurnal yang ditulis Marco dan Nik yang berjudul ***"Hacktivism dan Website Defacement : Motivation, Capabilities and Potential Threat."***, dikatakan bahwa **Hacktivism** dan **Website Defacement** seringkali memiliki keterkaitan. 
@@ -207,6 +215,10 @@ Dalam bahasa yang lebih luar fitur **upload** yang dimiliki oleh **webshell** bi
 #### Crypto Miner
 
 Selain **ransomware** adalah diam-diam **server** yang anda gunakan, **resources** yang dimilikinya akan digunakan untuk melakukan mining **bitcoin** atau **alternative coin** lainnya. Sehingga **attacker** mendapatkan keuntungan **asset digital** yang memiliki nilai **moneter**.
+
+#### Botnet
+
+Alternatif lain yang dapat dilakukan **attacker** adalah mengubah **server** yang anda miliki menjadi **zombie** untuk menyerang sistem lainnya. Seperti melakukan **DDoS Attack**. 
 
 **Web Shell** dapat ditulis menggunakan berbagai bahasa pemrograman, PHP paling menonjol karena banyak sekali penggunanya baik dari sisi pengembang **Web Application** ataupun **Attacker**. Dapat digunakan untuk upload dan eksekusi **malware** yang ditulis menggunakan bahasa pemrograman lainnya seperti C++ yang sangat efektif.
 
