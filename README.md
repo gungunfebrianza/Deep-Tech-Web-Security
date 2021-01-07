@@ -319,13 +319,30 @@ https://owasp.org/www-community/xss-filter-evasion-cheatsheet
 
 # Prevention & Mitigation
 
-Check Logs for Suspicious Activity. 
+Pemeliharaan keamanan komputer itu sangat mahal sekali.
 
-Out-of-date Software Version
+Solusi garis besarnya adalah :
 
-Other-account on shared server? huh
+<img src="assets/HighLevelSolution.png" style="zoom:100%;" />
 
-Other infected application on the server? (needle in the haystack)
+## Web Application Firewall (WAF)
+
+Secara teknis kita dapat menggunakan **Web Application Firewall** (WAF), penyelenggara **cloud** seperti **Amazon Web Service** memiliki layanan **Amazon WAF** yang dapat membantu kita mengatasi **almost all injection attack**.
+
+Layanan lain seperti **AWS Shield** dan **Cloudflare** menyediakan solusi untuk menghadapi serangaan **DDoS Attack**.
+
+## Bug Bounty Program (BBP)
+
+Kita bisa mengundang organisasi2 yang aktif di bidang keamanan untuk menguji **web application** yang kita miliki, lengkap dengan **reward** yang harus kita berikan jika mereka berhasil menemukannya. Jangan sampai PHP ya.
+
+
+
+1. Check Logs for Suspicious Activity. 
+2. Actively Vulnerability Scanning
+3. Update Unpatched OS.
+4. Out-of-date Software Version
+5. Other-account on shared server? huh
+6. Other infected application on the server? (needle in the haystack)
 
 # Furthermore
 
