@@ -368,7 +368,7 @@ Di bawah ini adalah buku2 yang penulis rekomendasikan untuk anda baca :
 
 <img src="assets/BookWebSecurity.PNG" style="zoom:40%;" />
 
-<img src="assets/BookWebSecurity2.PNG" style="zoom:37%;" />
+<img src="assets/BookWebSecurity2.PNG" style="zoom:40%;" />
 
 <img src="assets/BookWebSecurity3.PNG" style="zoom:40%;" />
 
